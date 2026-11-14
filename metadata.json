@@ -1,0 +1,6 @@
+{
+  "name": "GlucoSenda",
+  "description": "Motor de IA clínica y experiencia del paciente para analizar tendencias de glucosa y redactar mensajes empáticos y prácticos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
